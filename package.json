@@ -1,0 +1,25 @@
+{
+  "name": "11ty-jamstack-ll",
+  "version": "1.0.0",
+  "description": "These are the starting files used by [Wahyu Nugroho](https://WahyuNugroho.co) to create a personal blog site for the [Codementor](https://www.codementor.io/) DevProjects Challenge, [Create a fast and secure blog using JAMStack](https://www.codementor.io/projects/web/create-a-fast-and-secure-blog-using-jamstack-c93coupnxb). You are free to use them however you want to get started with the challenge, if you'd like to start working on creating the site without worrying about the content itself.",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx @11ty/eleventy --serve",
+    "build": "npx @11ty/eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WahyutriNugroho/11ty-jamstack-LL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WahyutriNugroho/11ty-jamstack-LL/issues"
+  },
+  "homepage": "https://github.com/WahyutriNugroho/11ty-jamstack-LL#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^1.0.0",
+    "axios": "^0.26.0"
+  }
+}
