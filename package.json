@@ -20,6 +20,7 @@
   "homepage": "https://github.com/WahyutriNugroho/11ty-jamstack-LL#readme",
   "dependencies": {
     "@11ty/eleventy": "^1.0.0",
+    "@11ty/eleventy-cache-assets": "^2.3.0",
     "axios": "^0.26.0"
   }
 }
